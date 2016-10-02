@@ -2,4 +2,4 @@
 A WinForm layout
 
 Preview:
-![preview](/raw/master/preview.jpg)
+![preview](https://github.com/linmos/WinFormLayout/blob/master/preview.png)
