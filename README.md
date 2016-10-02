@@ -2,4 +2,4 @@
 A WinForm layout
 
 Preview:
-![preview](preview.jpg)
+![preview](/raw/master/preview.jpg)
