@@ -1,6 +1,6 @@
 # WinFormLayout
 A WinForm layout
 
-Preview:
-***
-![preview](https://github.com/linmos/WinFormLayout/blob/master/preview.png)
+|Screenshot|
+| ---------- | 
+|![screenshot](https://github.com/linmos/WinFormLayout/blob/master/preview.png?raw=true)| 
